@@ -1,4 +1,4 @@
-           ### Hi there 👋 I'm Nara
+ Hi there 👋 I'm Nara
 
 
 🌱 Currently learning about Data Analysis and Machine Learning.
